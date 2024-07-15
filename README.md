@@ -8,7 +8,6 @@ Memory Usage Extension is a Chrome extension that displays memory usage informat
 
     ```bash
     git clone https://github.com/borisevstratov/memory-usage-chrome.git
-    cd memory-usage-chrome
     ```
 
 2. **Load the extension in Chrome:**
